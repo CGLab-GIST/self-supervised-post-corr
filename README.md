@@ -66,12 +66,21 @@ All source codes are released under a [BSD License](license).
 ## Citation
 
 ```
-@InProceedings{xxx,
-author = {xxx},
-title = {xxx},
-booktitle = {xxx},
-month = {xxx},
-year = {2022}
+@inproceedings{Back22,
+author = {Back, Jonghee and Hua, Binh-Son and Hachisuka, Toshiya and Moon, Bochang},
+title = {Self-Supervised Post-Correction for Monte Carlo Denoising},
+year = {2022},
+isbn = {9781450393379},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3528233.3530730},
+doi = {10.1145/3528233.3530730},
+booktitle = {ACM SIGGRAPH 2022 Conference Proceedings},
+articleno = {18},
+numpages = {8},
+keywords = {self-supervised denoising, self-supervised learning, self-supervised loss, Monte Carlo denoising},
+location = {Vancouver, BC, Canada},
+series = {SIGGRAPH '22}
 }
 ```
 
