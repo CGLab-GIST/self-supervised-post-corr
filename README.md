@@ -12,7 +12,7 @@ For more detailed information, please refer to our project page or other materia
 * [project page](https://cglab.gist.ac.kr/sig22sspc/)
 * [paper](https://drive.google.com/file/d/1J5Ecc_wTBYL-G2qz8d4159Ic61pfOeHR/view?usp=sharing)
 * [supplementary report](https://drive.google.com/file/d/1bqcaleTmoCAbH_mz12Qoga5o4Apicmq-/view?usp=sharing)
-* [interactive viewer](https://jongheeback.github.io/self-supervised-post-corr-supp/index.html)
+* [interactive viewer](https://cglab-gist.github.io/self-supervised-post-corr-supp/index.html)
 
 We have tested the code on Ubuntu 20.04 with NVIDIA GeForce RTX 3090 graphics card, and we have additionally checked that this code works well on the following graphics cards: NVIDIA GeForce RTX 3060, TITAN RTX, Quadro RTX 8000.
 
